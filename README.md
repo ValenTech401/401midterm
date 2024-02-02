@@ -21,7 +21,7 @@
 ### Project Management Tool
 
 - Checkout the milestones, MVPs, and other project related progress here
-- [Trello Board](https://trello.com/b/3tjWW9Ub/201-group-project)
+- [GitHub Project](https://trello.com/b/3tjWW9Ub/201-group-project)
 
 ### SOPs
 
