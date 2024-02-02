@@ -60,6 +60,8 @@
 | How and when will you escalate the conflict if your resolution attempts are unsuccessful? | Define clear escalation procedures, such as involving a team leader, mediator, or higher authority, when internal resolution attempts fail. Establish a timeline for escalation based on the severity and persistence of the conflict. |
 | How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up and communicating honestly? | Foster a culture of psychological safety by promoting open communication, active listening, and non-judgmental responses. Encourage feedback, respect diverse opinions, and address any behaviors that undermine a safe and inclusive environment. |
 
+## Establish a Communication Plan
+
 | Question | Response |
 | -------- | -------- |
 | **Approach to Day-to-Day Work** | We will implement cross-training sessions to ensure each team member gains knowledge in different project aspects. Regular team meetings will be held to discuss progress and address any questions or concerns. |
