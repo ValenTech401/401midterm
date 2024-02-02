@@ -12,16 +12,58 @@
 
 ### Project Description
 
-**A tiny new space startup looking to build and deploy micro-satellites.**
-- The company has mostly been hardware and software engineers working out of a large converted garage space.
-- They have received some grants and some investments, and they want to expand to hire more engineers, but also a few non-technical employees such as an office manager, a media person, etc.
-- Most employees will continue to work out of a central location, but both technical and non-technical users will sometimes need to travel.
-- Information security is a priority: The company's only value is its intellectual property. The company is unwilling to allow these technical designs to be stored on the cloud, and does not want any of it's intellectual property to leave the building (except in the form of offsite backups).
+Your team has been contracted to improve the cybersecurity processes and systems for a client company, focusing on logging, monitoring, and detection of adversarial activity on cloud infrastructure in AWS Cloud. The client has requested demonstrations of secure IAM practices, server hardening, data protection, SIEM/log aggregation system configurations, and cloud monitoring techniques to protect their cloud infrastructure.
+
+- **Project Breakdown:**
+  - Your team has been contracted to improve the cybersecurity processes and systems for a client company.
+  - The focus is on logging, monitoring, and detection of adversarial activity on cloud infrastructure in AWS Cloud.
+
+- **Client Requested Demonstrations:**
+  - Secure IAM practices
+  - Server hardening
+  - Data protection
+  - SIEM/log aggregation system configurations
+  - Cloud monitoring techniques
+
+- **Objective:**
+  - Protect the client's cloud infrastructure by demonstrating and implementing the above security practices and configurations.
 
 ### Project Management Tool
 
 - Checkout the milestones, MVPs, and other project related progress here
 - [GitHub Project](https://trello.com/b/3tjWW9Ub/201-group-project)
+
+### Client Pitch
+
+We are thrilled to have the opportunity to collaborate with you on this vital project. Our team has been specifically contracted to elevate the cybersecurity landscape of your AWS Cloud infrastructure. Our focus is on fortifying your systems against adversarial activities through comprehensive logging, meticulous monitoring, and proactive detection strategies. Our approach is threefold:
+
+1. **IAM Best Practices:** Ensuring the principle of least privilege is adhered to.
+
+2. **Infrastructure Hardening and Monitoring:**
+   - Deployment of Sysmon for monitoring.
+   - Hardening includes taking CIS-compliant Windows Server DC within a private subnet of your VPC, accessible only through VPN tunneling.
+   - Linux server instance will be meticulously configured to house your sensitive PII and PCI data, with encryption both at rest and in transit.
+
+3. **SIEM/Log Aggregation:**
+   - Utilizing top-tier CloudWatch, we will configure a real-time event log ingestion system from key assets, including EC2 instances.
+   - This will enable us to swiftly identify and mitigate threats, ensuring continuous protection.
+
+To top it off, we will implement **Cloud Monitoring with AWS Lambda.** Our strategy extends to leveraging VPC Flow Logs to monitor network traffic meticulously. AWS Lambda functions will be employed to automate responses to detect threats.
+
+We are eager to embark on this journey with you, safeguarding your digital assets and fostering a secure cloud environment. Thank you for considering our team for this crucial initiative.
+
+### Tools & Solutions
+
+| Aspect                          | System/Platform/Tool | How it Fits into Scenario                          | Solution to Scenario                                        |
+|---------------------------------|-----------------------|----------------------------------------------------|-------------------------------------------------------------|
+| 1. Company organization and policies | AWS-IAM               | Implement best practices for secure access management | Create security rules, groups, and policies                   |
+| 2. VPN Setup                     | AWS-VPC (VPN site-to-site) | Sets up a secure site-to-site VPN tunnel              | Provides Windows-Centric solution for secure access via VPN  |
+| 3. Server Hardening              | EC2 Instance: Windows Server DC | CIS-compliant, hosted on a private subnet, accessible via VPN tunneling | Provides a secure server for operations and hardening     |
+| 4. Data Protection               | AWS-KMS               | Encrypts data at rest and in transit. Deploy Sysmon for security-relevant system logs | Ensures data encryption at rest and in transit             |
+| 5. CIS compliant Data Server      | EC2 Instance: Linux Server | Contains PII and PCI data, with data encrypted at rest and in transit | Secure storage for PII and PCI data                        |
+| 6. SIEM/Log aggregation          | AWS-CloudWatch/CloudTrail | Configured to ingest event logs in real time from key assets including EC2 instances | Real-time monitoring and alerting of AWS activity         |
+| 7. Cloud Monitoring               | AWS-Lambda            | Utilize VPC Flow Logs for capturing traffic. Implement an AWS Lambda function to trigger relevant responses to detected threats, fulfilling the requirement for a shell script | Interact with CloudWatch through scripting language for monitoring |
+
 
 ### SOPs
 
