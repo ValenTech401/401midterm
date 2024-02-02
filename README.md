@@ -75,3 +75,6 @@ We are eager to embark on this journey with you, safeguarding your digital asset
 
 - [ValenTech Slide Deck](https://docs.google.com/presentation/d/1kU41nfRd3NGU-itEinPWKOvGyyLmnkbF5OAuA6VdIgU/edit#slide=id.g2a928df11dc_1_0)
 
+### Topology
+
+![Topology](media/topo.png)
