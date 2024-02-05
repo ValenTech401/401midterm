@@ -8,6 +8,7 @@
 | Andrew Carroll | Communication, Creativity, Speaking/Hosting, the chillest really. |
 | Christen Reinhart | Flexible, open-minded, hardworking |
 | Nathalie Abdallah | Early bird worm, organized, love to learn and apply ASAP |
+| Eveangalina Campos | Growth Mindset, and willingness to learn. |
 
 ### Utilizing Strengths
 
@@ -17,7 +18,7 @@
 | Scotty Jokon | Doing research and listening to orders |
 | Christen Reinhart | By being patient and contributing where and when necessary |
 | Nathalie Abdallah | Getting all documentation completed early, organizing, and getting to the juicy part faster |
-
+| Eveangalina Campos | Communicating with team to learn where I can help.|
 ### Best Work Hours
 
 | Person | Best Work Hours (Remote)                              |
@@ -26,6 +27,7 @@
 | Scotty Jokon | Same time as we have class or anytime after |
 | Christen Reinhart | Available 1000-2200 EST and can be flexible as needed |
 | Nathalie Abdallah | Central Time (Class Schedule for PST 9am - 6pm is perfect for me) |
+| Eveangalina Campos | All class hours in addition to late nights and early mornings. |
 
 ## Take Account of Your Areas for Growth:
 
@@ -37,6 +39,7 @@
 | Scotty Jokon | Growth mindset |
 | Christen Reinhart | Working cohesively with others virtually is still a weakness I need to work on. |
 | Nathalie Abdallah | Keeping energy level high in the room/collaborative environment. Last project I worked on: Presentation and Execution Public Speaking. |
+| Eveangalina Campos | Craft Competency. |
 
 ### Past Stress Factors
 
@@ -46,6 +49,7 @@
 | Scotty Jokon | Being the only person in the group to work on something and ends up being a dead end |
 | Christen Reinhart | The communication that is lost in translation while working virtually. |
 | Nathalie Abdallah | Keeping the interest level high and engaged for me and everyone (collaborative experience) |
+| Eveangalina Campos | Understanding the overall project and my piece in it. |
 
 ## Create a Conflict and Confrontation Plan
 
@@ -85,6 +89,7 @@
 | Scotty Jokon | I just work on the weekends 3pm-11pm |
 | Christen Reinhart | I have a VA appointment, but it is outside of 1000-2200. Unless I get held up longer than expected which tends to happen at the VA it shouldn't be an issue. |
 | Nathalie Abdallah | So far no dates conflict, will keep you updated |
+| Eveangalina Campos | Regular school pickup for my daughter at 3PM (MST) durring the week. Thurs is early release at 1PM. I usually step away to cook after pick up's and then I'm right back. |
 
 ### Working Outside of Core Hours
 
@@ -94,6 +99,7 @@
 | Scotty Jokon | Depending on how the project progresses, it has been necessary before. |
 | Christen Reinhart | Depending on how the project progresses, it has been necessary before. |
 | Nathalie Abdallah | I like my time being respected, and I also respect other people’s time. But emergencies arise. Emergency is defined as something that could not have been prevented by proper planning. |
+| Eveangalina Campos | Willing to work outside of core hours as needed. |
 
 ### Work Plan
 
