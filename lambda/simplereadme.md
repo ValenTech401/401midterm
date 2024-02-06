@@ -3,13 +3,12 @@
 ![Lambda Architecture](media/lambdaarch.png)
 
 ### Assets in AWS
+
 **Lambda > Function:** [DetectPublicS3Buckets](https://us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#/functions/DetectPublicS3Buckets?tab=code)
 **EventBridge > Rules:** [S3BucketRule](https://us-east-1.console.aws.amazon.com/events/home?region=us-east-1#/eventbus/default/rules/s3BucketRule)
 **CloudWatch > Log Groups:** [/aws/lambda/DetectPublicS3Buckets](https://us-east-1.console.aws.amazon.com/cloudwatch/home?region=us-east-1#logsV2:log-groups/log-group/$252Faws$252Flambda$252FDetectPublicS3Buckets)
 **KMS > Customer Managed Keys:** [s3bucket-monitor](https://us-east-1.console.aws.amazon.com/kms/home?region=us-east-1#/kms/keys/mrk-6c7a5c092a554326a520bde96aac692a)
 **Amazon SNS > Topics > s3BucketMonitor:** [s3BucketMonitor](https://us-east-1.console.aws.amazon.com/sns/v3/home?region=us-east-1#/topic/arn:aws:sns:us-east-1:571355216739:s3BucketMonitor)
-
-
 
 
 ## Step-by-Step Guide to Set Up Lambda Functions
