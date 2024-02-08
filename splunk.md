@@ -16,7 +16,7 @@ When you go through Splunk files you can find when the person downloaded this sc
 
 <img width="1690" alt="Screenshot 2024-02-08 at 10 01 34 AM" src="https://github.com/ValenTech401/401midterm/assets/143548087/be30cb4e-6f0b-4a7d-a672-bf170b91b07c">
 
-This can be avoided when there is [Multi Factor Authentication]() in place as well as stronger passwords implemented with pass keys, and [systems hardening]()
+This can be avoided when there is [Multi Factor Authentication]() in place as well as stronger passwords implemented with pass keys, and [systems hardening](https://github.com/ValenTech401/401midterm/blob/main/serverhardening.md)
 
 The [VPN]() tunnel is a secure means to transfer data from one site to another, but if the login requirements are weak, the vpn tunnel can become a weapon and a point of vulnerability.
 
