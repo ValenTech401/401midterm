@@ -18,7 +18,7 @@ When you go through Splunk files you can find when the person downloaded this sc
 
 This can be avoided when there is [Multi Factor Authentication]() in place as well as stronger passwords implemented with pass keys, and [systems hardening](https://github.com/ValenTech401/401midterm/blob/main/serverhardening.md)
 
-The [VPN]() tunnel is a secure means to transfer data from one site to another, but if the login requirements are weak, the vpn tunnel can become a weapon and a point of vulnerability.
+The [VPN](https://github.com/ValenTech401/401midterm/blob/main/vpn.md) tunnel is a secure means to transfer data from one site to another, but if the login requirements are weak, the vpn tunnel can become a weapon and a point of vulnerability.
 
 Apart from [Splunk](), [AWS CloudWatch and CloudTrail]() as well as using [lambda function](https://github.com/ValenTech401/401midterm/tree/main/lambda) and [agents]() are good means of monitoring activity on your network and Operating Systems.
 
