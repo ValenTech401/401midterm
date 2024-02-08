@@ -2,7 +2,7 @@ Splunk
 
 A fun piece of Malware was created for demonstration purposes for what Splunk detects on your system
 
-Here is the friendly malware: It is a python script called [h.py]() that pops up the heart picture upon 
+Here is the friendly malware: It is a python script called [h.py](https://github.com/ValenTech401/401midterm/blob/main/h.py) that pops up the heart picture upon 
 Starting the Windows Operating System that managed to get on the computer by a phishing attack.
 Once the person got a hold of the Administrator's password, thankfully they didn’t do anything more than 
 Send a nice Valentine Gift!
