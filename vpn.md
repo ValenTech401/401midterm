@@ -116,12 +116,6 @@ The last thing to do is route the internal server to Instance 1: Everything will
 <img width="1722" alt="Screenshot 2024-02-07 at 10 50 45 AM" src="https://github.com/ValenTech401/401midterm/assets/143548087/e2a53067-6457-4068-94c4-439b8ccf4dc9">
 
 
-<img width="763" alt="Screenshot 2024-02-07 at 10 51 20 AM" src="https://github.com/ValenTech401/401midterm/assets/143548087/a6f1ed62-e724-422c-91ce-d1428eebdeb7">
-
-<img width="1674" alt="Screenshot 2024-02-07 at 10 59 00 AM" src="https://github.com/ValenTech401/401midterm/assets/143548087/811ca154-d4ce-4875-b2a2-185798c79253">
-
-
-
 
 
 
