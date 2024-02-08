@@ -20,7 +20,7 @@ This can be avoided when there is [Multi Factor Authentication]() in place as we
 
 The [VPN]() tunnel is a secure means to transfer data from one site to another, but if the login requirements are weak, the vpn tunnel can become a weapon and a point of vulnerability.
 
-Apart from [Splunk](), [AWS CloudWatch and CloudTrail]() as well as using [lambda function]() and [agents]() are good means of monitoring activity on your network and Operating Systems.
+Apart from [Splunk](), [AWS CloudWatch and CloudTrail]() as well as using [lambda function](https://github.com/ValenTech401/401midterm/tree/main/lambda) and [agents]() are good means of monitoring activity on your network and Operating Systems.
 
 
 
