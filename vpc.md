@@ -1,6 +1,6 @@
 This script creates the VPC as the topology states below
 
-<img width="1147" alt="Screenshot 2024-02-08 at 5 42 11 AM" src="https://github.com/ValenTech401/401midterm/assets/143548087/c3ef7c0a-ae18-4952-a608-5a94ce1f1d3e">
+<img width="1459" alt="Screenshot 2024-02-08 at 8 43 42 PM" src="https://github.com/ValenTech401/401midterm/assets/143548087/fc838212-24ba-4d27-b0f7-180d6ecb6359">
 
 <br>
 
