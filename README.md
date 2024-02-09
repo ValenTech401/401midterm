@@ -61,8 +61,8 @@ We are eager to embark on this journey with you, safeguarding your digital asset
 | 3. Server Hardening              | EC2 Instance: Windows Server DC | CIS-compliant, hosted on a private subnet, accessible via VPN tunneling | Provides a secure server for operations and hardening     |
 | 4. Data Protection               | AWS-KMS               | Encrypts data at rest and in transit. Deploy Sysmon for security-relevant system logs | Ensures data encryption at rest and in transit             |
 | 5. CIS compliant Data Server      | EC2 Instance: Linux Server | Contains PII and PCI data, with data encrypted at rest and in transit | Secure storage for PII and PCI data                        |
-| 6. SIEM/Log aggregation          | AWS-CloudWatch/CloudTrail | Configured to ingest event logs in real time from key assets including EC2 instances | Real-time monitoring and alerting of AWS activity         |
-| 7. Cloud Monitoring               | AWS-Lambda            | Utilize VPC Flow Logs for capturing traffic. Implement an AWS Lambda function to trigger relevant responses to detected threats, fulfilling the requirement for a shell script | Interact with CloudWatch through scripting language for monitoring |
+| 6. SIEM/Log aggregation          | AWS-CloudWatch/CloudTrail/Sysmon/Splunk | Configured to ingest event logs in real time from key assets including EC2 instances | Real-time monitoring and alerting of AWS activity         |
+| 7. Cloud Monitoring               | AWS-Lambda           | Utilize VPC Flow Logs for capturing traffic. Implement an AWS Lambda function to trigger relevant responses to detected threats, fulfilling the requirement for a shell script | Interact with CloudWatch through scripting language for monitoring |
 
 
 ### SOPs
