@@ -77,4 +77,4 @@ We are eager to embark on this journey with you, safeguarding your digital asset
 
 ### Topology
 
-![Topology](media/topo.png)
+<img width="1459" alt="Screenshot 2024-02-08 at 8 43 42 PM" src="https://github.com/ValenTech401/401midterm/assets/143548087/9a8de8ac-4998-4d99-868d-108c87bdc8d8">
