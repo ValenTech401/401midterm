@@ -7,6 +7,7 @@
 - [Eveangalina Campos](https://github.com/Eveangalina)
 - [Christen Reinhart](https://github.com/christen-reinhart)
 - [Nathalie Abdallah](https://github.com/nataliabdallah)
+- [Renona Gay]()
 - [Scotty Jokon](https://github.com/SteezyLoh)
 
 ### Project Description
